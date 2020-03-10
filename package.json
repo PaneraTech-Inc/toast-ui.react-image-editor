@@ -54,6 +54,6 @@
   },
   "dependencies": {
     "fabric": "3.6.0",
-    "tui-image-editor": "^3.8.0"
+    "tui-image-editor": "https://github.com/gunjankothari/tui.image-editor#production"
   }
 }
